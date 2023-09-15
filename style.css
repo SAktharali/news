@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none !important;
+}
+.navbar-brand {
+  font-weight: 700;
+}
+
+#home {
+  width: 100%;
+  min-height: 200px;
+  overflow: hidden;
+  margin-top: 20px;
+}
+.footer {
+  margin-top: 15%;
+  background-color: black;
+  width: 100;
+  height: 200px;
+  color: white;
+  text-align: center;
+}
+.fa-brands {
+  font-size: 25px;
+  margin: 20px;
+}
+footer > p {
+  font-size: 20px;
+}
+footer a:hover {
+  color: red;
+}
+footer > b {
+  font-size: 20px !important;
+  color: white !important;
+}
